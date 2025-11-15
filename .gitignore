@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+inventory
+
+# CodeQL files
+_codeql_detected_source_root
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
